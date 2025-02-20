@@ -1,4 +1,4 @@
-import express from "express";
+/*import express from "express";
 import nodemailer from "nodemailer";
 import  from "cors";
 import dotenv from "dotenv";
@@ -38,3 +38,4 @@ app.post("/send-email", async (req, res) => {
 app.listen(5000, () => {
   console.log("Server running on port 5000");
 });
+*/
